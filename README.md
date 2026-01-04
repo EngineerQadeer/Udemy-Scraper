@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-**[Visit ZapLogic Udemy Scraper](https://your-username.github.io/Udemy-Scraper/)**
+**[Visit ZapLogic Udemy Scraper](https://engineerqadeer.github.io/Udemy-Scraper/)**
 
 ## 📖 About
 
@@ -39,13 +39,13 @@ ZapLogic is an intelligent web scraper designed to automatically collect **100% 
 1. Fork this repository
 2. Go to **Settings** → **Pages**
 3. Select **main** branch as source
-4. Your site will be live at `https://your-username.github.io/Udemy-Scraper/`
+4. Your site will be live at `https://EngineerQadeer.github.io/Udemy-Scraper/`
 
 ### Option 2: Local Development
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Udemy-Scraper.git
+git clone https://github.com/EngineerQadeer/Udemy-Scraper.git
 
 # Navigate to the directory
 cd Udemy-Scraper
