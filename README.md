@@ -12,7 +12,7 @@
 
 ## 📖 About
 
-ZapLogic is an intelligent web scraper designed to automatically collect **100% free Udemy coupon links** from DiscUdemy. Built with modern web technologies, this tool empowers students worldwide to access premium educational content without barriers.
+ZapLogic is an intelligent web scraper designed to automatically collect **100% free Udemy coupon links** from Udemy. Built with modern web technologies, this tool empowers students worldwide to access premium educational content without barriers.
 
 ### ✨ Key Features
 
